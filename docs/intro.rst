@@ -3,11 +3,11 @@ Introduction
 
 The main goal for this project is to provide a simple development framework
 that handles the main problems any web application or site encounters.
-It will help you adhere to the DRY (Don't repat yourself) principle.
+It will help you adhere to the DRY (Don't repeat yourself) principle.
 
-Keeping on mind that it must be possible to develop directly on Flask/Jinja2 for custom pages or flows,
+Keeping in mind that it must be possible to develop directly on Flask/Jinja2 for custom pages or flows,
 that painlessly integrate the framework.
-But the framework it self should go further then an admin scaffolding package.
+But the framework itself should go further then an admin scaffolding package.
 It should have builtin presentation alternatives, and behaviour.
 Should be highly configurable, and should have extra goodies.
 
